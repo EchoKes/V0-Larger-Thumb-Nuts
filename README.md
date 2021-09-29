@@ -1,5 +1,5 @@
 # V0-Larger-Thumb-Nuts
--More accurate tuning
+- More accurate tuning
 
 -> Only print 2 of these models as they will fit the back two bed screws.
 
